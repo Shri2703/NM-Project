@@ -19,6 +19,8 @@ We explore various machine learning models including Random Forest, Support Vect
 
 Results
 Our best-performing model achieved an accuracy of X%, precision of Y%, recall of Z%, and F1-score of W%. The model demonstrates strong generalization capabilities, performing consistently well on unseen test data. Visualization of the confusion matrix highlights the model's ability to correctly classify exercise sessions into different calorie categories.
+
+
 <img width="328" alt="image" src="https://github.com/Shri2703/NM-Project/assets/126264718/712ba25a-9b6d-49db-bb98-cb2aeffe6b81">
 
 
